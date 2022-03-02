@@ -1,4 +1,4 @@
-# Java-Stickman-Project
+# Stickman-Java-Project
  A Java program that ASCII stickman climbing the stairs.
  
  CmpE150 Introduction to Computing course project homework 2019 fall semester Bogazici University Computer Engineering Department.
